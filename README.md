@@ -1,15 +1,16 @@
 # Reserch_Papers-_Recreation
-Recreating research papers through practical Data Science &amp; ML projects — because apparently reading them 17 times wasn't enough. 📚💀
+Recreating research papers through practical Data Science &amp; ML projects — because apparently reading them 17 times wasn't enough. 
+im stuck on just gathering enough data for these projects 
 
 
 
-# 📚 Research Papers, But Make It Understandable
+# Research Papers, But Make It Understandable
 
 > **A student's five-week journey of reading research papers, questioning life choices, and then recreating the papers anyway.**
 
 ---
 
-## 👋 Hello, fellow survivors
+## Hello, fellow survivors
 
 Welcome to my little corner of GitHub.
 
@@ -33,7 +34,7 @@ By "fun," I mean:
 
 ---
 
-# 🧠 So... What Is This Repository?
+#  So... What Is This Repository?
 
 This repository is where I am going to **recreate the research papers I've been studying.**
 
@@ -47,19 +48,19 @@ I'm actually going to **implement it.**
 
 For each paper, I'll try to:
 
-* 📖 Understand what the researchers were actually trying to solve
-* 🔍 Break down the methodology
-* 📊 Understand the dataset
-* 🧹 Recreate the preprocessing steps
-* 🤖 Implement the proposed models/algorithms
-* 📈 Reproduce important results where possible
-* 🧪 Experiment with improvements
-* 📝 Explain everything in student-friendly language
-* 💀 Document the inevitable confusion along the way
+*  Understand what the researchers were actually trying to solve
+*  Break down the methodology
+*  Understand the dataset
+*  Recreate the preprocessing steps
+*  Implement the proposed models/algorithms
+*  Reproduce important results where possible
+*  Experiment with improvements
+*  Explain everything in student-friendly language
+*  Document the inevitable confusion along the way
 
 ---
 
-# 🎯 Why Am I Doing This?
+#  Why Am I Doing This?
 
 Because reading a research paper and **actually implementing it are two completely different experiences.**
 
@@ -89,7 +90,7 @@ And most importantly...
 
 ---
 
-# 🗂️ Repository Structure
+#  Repository Structure
 
 Each research paper will have its own section/folder.
 
@@ -122,7 +123,7 @@ Because apparently one README wasn't enough suffering.
 
 ---
 
-# 🔬 What You'll Find For Each Paper
+#  What You'll Find For Each Paper
 
 Every paper recreation will try to answer the following questions:
 
@@ -202,11 +203,11 @@ vs.
 
 Because apparently getting the exact same accuracy is not guaranteed just because I copied the methodology.
 
-Who knew? 😭
+Who knew? 
 
 ---
 
-# 🧪 Experiments
+#  Experiments
 
 Whenever possible, I'll also experiment with:
 
@@ -222,7 +223,7 @@ Because after spending five weeks reading papers, I might as well cause addition
 
 ---
 
-# 📊 Results
+#  Results
 
 Results will be documented using things like:
 
@@ -242,7 +243,7 @@ Depending on what the particular paper is doing.
 
 ---
 
-# 🛠️ Technologies
+# Technologies
 
 Most implementations will use Python and common Data Science / Machine Learning libraries.
 
@@ -266,7 +267,7 @@ Because apparently researchers enjoy changing the rules every paper.
 
 ---
 
-# 📚 My Research Workflow
+#  My Research Workflow
 
 My current workflow looks something like this:
 
@@ -312,7 +313,7 @@ Apparently I enjoy this.
 
 ---
 
-# 🎓 What I Hope To Learn
+#  What I Hope To Learn
 
 This isn't just about reproducing papers.
 
@@ -335,7 +336,7 @@ And hopefully become slightly less terrified when someone says:
 
 ---
 
-# 🚀 Follow The Journey
+# Follow The Journey
 
 I'll keep adding new research-paper recreations as I work through them.
 
@@ -358,19 +359,19 @@ Or you might simply watch me struggle with a 20-page paper and feel better about
 
 Either way—
 
-**Welcome. 😂**
+**Welcome. **
 
 ---
 
-## ⭐ If You Find This Useful
+## If You Find This Useful
 
 Feel free to:
 
-⭐ Star the repository
-🍴 Fork it
-🐛 Point out mistakes
-💡 Suggest improvements
-📖 Recommend interesting research papers
+Star the repository
+ Fork it
+ Point out mistakes
+ Suggest improvements
+ Recommend interesting research papers
 
 Especially the last one.
 
@@ -378,7 +379,7 @@ Because apparently I haven't suffered enough yet.
 
 ---
 
-# 📌 Final Disclaimer
+#  Final Disclaimer
 
 These implementations are **educational recreations** of research papers.
 
@@ -398,16 +399,16 @@ So if my results don't exactly match the paper...
 
 **Please blame statistics.**
 
-Not me. 😌
+Not me. 
 
 ---
 
-### 🧠 Current Status
+### Current Status
 
-**Research papers read:** 
-**Papers recreated:** 
-**Understanding level:** 
-**Sanity remaining:** 
-ill update ad i go on 
+**Research papers read:** : i didnt cout
+**Papers recreated:**  working on just getting the right  data 
+**Understanding level:**  I'm still stuck on taxonomy
+**Sanity remaining:** : i... realy dont know  
+ill update as I go on 
 
-**The journey continues. 🚀**
+**The journey continues. **
