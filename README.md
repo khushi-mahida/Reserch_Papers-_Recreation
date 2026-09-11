@@ -15,6 +15,7 @@ im stuck on just gathering enough data for these projects
 Welcome to my little corner of GitHub.
 
 If you're wondering:
+I know ur not (cuz finding and extracting dat is harddddd)
 
 **"Where did all the Data Science projects go?"**
 
