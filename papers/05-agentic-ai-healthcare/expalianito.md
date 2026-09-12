@@ -20,7 +20,7 @@ Because giving an AI the ability to:
 
 > "Think, plan, use tools and make decisions"
 
-sounds amazing...
+sounds amazing... just wait for the  plot twist......
 
 until the AI is dealing with an actual patient.
 
