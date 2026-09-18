@@ -8,7 +8,7 @@ im stuck on just gathering enough data for these projects
 
 > **A student's five-week journey of reading research papers, questioning life choices, and then recreating the papers anyway.**
 
----
+--- (just revisiting i g )
 
 ## Hello, fellow survivors
 
